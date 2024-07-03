@@ -1,0 +1,3 @@
+anthropic
+PyPDF2
+python-dotenv
